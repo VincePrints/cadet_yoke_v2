@@ -3,9 +3,10 @@
 This is an open-source yoke to be used with flight simulators!
 
 ## Build Documentation
-- User Guide: [User Guide](./User_Guide)
-- Youtube: (https://www.youtube.com/watch?v=mIO1B-M6C_E)
+- License: [License](./LICENSE.ms)
+- User Guide: [User Guide](./User_Guide.pdf)
+- Youtube: [YouTube link](https://www.youtube.com/watch?v=mIO1B-M6C_E)
 
 ## 3D Files
-- Thingiverse: (https://github.com/vincentgruse/results-summary-component)
-- PrusaPrinters: (https://vincentgruse.github.io/results-summary-component)
+- Thingiverse: [Thingiverse link](https://www.thingiverse.com/thing:4884092)
+- Printables: [Printables link](https://www.printables.com/model/68980-cadetyoke-v20-open-source-yoke-for-flight-simulato)
