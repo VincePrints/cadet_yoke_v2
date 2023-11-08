@@ -1,7 +1,7 @@
 # cadet_yoke_v2
 
 This is an open-source yoke to be used with flight simulators!
-This thing was created by Thingiverse user Vince_Prints, and is licensed under Creative Commons - Attribution - Non-Commercial - Share Alike 
+- This thing was created by Thingiverse user Vince_Prints, and is licensed under Creative Commons - Attribution - Non-Commercial - Share Alike 
 
 ## Build Documentation
 - User Guide: [User Guide](./User_Guide.pdf)
